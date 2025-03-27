@@ -1,0 +1,14 @@
+{
+  "creatorsgadgets.config.server.toolbox_resonator_range_bonus": "Toolbox Resonator Range Bonus",
+  "item.creatorsgadgets.toolbox_radar": "Toolbox Radar",
+  "item.creatorsgadgets.toolbox_radar.tooltip.behaviour1": "Displays the _distance_ to nearby _Toolboxes_. Shows Toolboxes _beyond_ their accessible range.",
+  "item.creatorsgadgets.toolbox_radar.tooltip.condition1": "When holding the Toolbox Keybind",
+  "item.creatorsgadgets.toolbox_radar.tooltip.summary": "Helps locate _Toolboxes_ you may have lost.",
+  "item.creatorsgadgets.toolbox_resonator": "Toolbox Resonator",
+  "item.creatorsgadgets.toolbox_resonator.tooltip.behaviour1": "Access _Toolboxes_ from a _greater distance_.",
+  "item.creatorsgadgets.toolbox_resonator.tooltip.behaviour2": "Displays the _distance_ to nearby _Toolboxes_. Shows Toolboxes _beyond_ their accessible range.",
+  "item.creatorsgadgets.toolbox_resonator.tooltip.condition1": "When Equipped",
+  "item.creatorsgadgets.toolbox_resonator.tooltip.condition2": "When holding the Toolbox Keybind",
+  "item.creatorsgadgets.toolbox_resonator.tooltip.summary": "Makes it easier to forget where you placed your _Toolbox_, and helps you find it again.",
+  "itemGroup.creatorsgadgets.main": "Creator's Gadgets"
+}

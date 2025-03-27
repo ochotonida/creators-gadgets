@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "creatorsgadgets.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.creatorsgadgets.refmap.json",
+  "mixins": [
+    "toolbox.ToolboxHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8",
+  "client": [
+    "toolbox.client.RadialToolboxMenuMixin",
+    "toolbox.client.ToolboxHandlerClientMixin"
+  ]
+}

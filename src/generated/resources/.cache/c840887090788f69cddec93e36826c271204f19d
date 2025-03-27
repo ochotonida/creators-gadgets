@@ -1,0 +1,5 @@
+// 1.20.1	2025-03-27T16:25:21.4030216	Registrate Provider for creatorsgadgets [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
+9bd76e73003ae6160e0173fd2c57f71779f2d8d6 assets/creatorsgadgets/lang/en_ud.json
+5a8680f51d062131da42d7250dfa2adc897cfe92 assets/creatorsgadgets/lang/en_us.json
+713b61e825bc5677c36f19470e2d820acc54b13f data/curios/tags/items/charm.json
+713b61e825bc5677c36f19470e2d820acc54b13f data/curios/tags/items/head.json
